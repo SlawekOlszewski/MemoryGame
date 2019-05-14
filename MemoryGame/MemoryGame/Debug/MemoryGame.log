@@ -1,0 +1,4 @@
+﻿  source.cpp
+C:\Users\Sławek Olszewski\Documents\GitHub\MemoryGame\MemoryGame\MemoryGame\source.cpp(116): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Sławek Olszewski\Documents\GitHub\MemoryGame\MemoryGame\MemoryGame\source.cpp(347): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  MemoryGame.vcxproj -> C:\Users\Sławek Olszewski\Documents\GitHub\MemoryGame\MemoryGame\Debug\MemoryGame.exe
